@@ -1,0 +1,18 @@
+Respected sir,
+	com_step_ramp
+	com_step_ramp1
+	com_step_ramp2
+	com_step_ramp3
+
+These functions are same as one file cannot be accessed by all the programmes i created four such files.
+The file names are same as question numbers.
+For questions in 16, each sub-question has a seperate file and the answers printed are in order from 1-10 question numbers.
+
+cau_noncau
+inv_noninv
+linear_nonlinear
+sta_unsta_func
+stat_dyn_func
+timevariant_invariant
+
+these are functions used for 16th question.
